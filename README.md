@@ -1,3 +1,5 @@
+This repo is archived and no longer maintained.
+
 # actions-public-test2
 
 A small public-repository GitHub Actions probe. Its only workflow is a manually dispatched job that prints a fixed message.
